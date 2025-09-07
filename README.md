@@ -109,7 +109,7 @@ The simulation module provides:
 
 ## 📞 Contact
 
-Your Name - ojasgupta2003@gmail.com
+Email - ojasgupta2003@gmail.com
 
 Project Link: [https://github.com/ojas-03/Smart-Traffic-Mangement-System](https://github.com/ojas-03/Smart-Traffic-Mangement-System)
 
